@@ -1,0 +1,6 @@
+[submodule "tokenSupport-backend"]
+	path = tokenSupport-backend
+	url = git@github.com:github.com/FirstFlush/tokenSupport.backend.git
+[submodule "tokenSupport-frontend"]
+	path = tokenSupport-frontend
+	url = git@github.com:github.com/FirstFlush/tokenSupport.frontend.git
